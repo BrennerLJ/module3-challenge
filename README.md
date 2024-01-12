@@ -1,2 +1,2 @@
 # module3-challenge
-Create a password generator
+I am creating a password generator the meets certain criteria.
